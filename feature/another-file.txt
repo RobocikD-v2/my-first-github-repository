@@ -7,3 +7,5 @@ This line was edited in feature-2 branch.
 New line edited in feature-2 branch by weird user?
 
 Line by RobocikD-v2 in feature-2 branch.
+
+Changes in feature-2 branch.
